@@ -1,0 +1,1 @@
+export const NUMBER_OF_IMAGES_PER_PAGES = 5

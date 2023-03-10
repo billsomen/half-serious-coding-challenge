@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+:root {
+  background: linear-gradient(151deg, rgba(52,36,0,1) 0%, rgba(0,8,10,1) 100%);
+}
+
+.landingPage-hero {
+  height: 90vh;
+  display: "block";
+}
+
+.ant-breadcrumb-separator {
+  color: azure !important;
+}
+
+.space {
+  margin: 24px 0px;
+}
+
+.ant-breadcrumb {
+  color: white !important;
+  padding: 24px 0 !important;
+}
+
+.ant-spin-dot-item {
+  background-color: yellow !important;
+}
+
+.title { color: "white"; text-align: "center"; }
