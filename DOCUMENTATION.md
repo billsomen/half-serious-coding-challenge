@@ -39,33 +39,17 @@ Here are the instructions on how to install the project locally.
    cd galactic-explorer
    ```
 3. Install the dependencies:
-
-   - using ``npm``
-     ```bash
-     npm install
-     ```
-   - using ``yarn``
-     ```bash
-     yarn
-     ```
+    ```bash
+    yarn
+    ```
 4. Navigate to the ``content`` directory:
 5. Install the dependencies:
 
-   - using ``npm``
-     ```bash
-     npm install
-     ```
-   - using ``yarn``
      ```bash
      yarn
      ```
 6. Run the headless cms
 
-   - using ``npm``
-     ```bash
-     npm run develop
-     ```
-   - using ``yarn``
      ```bash
      yarn develop
      ```
@@ -91,11 +75,6 @@ Here are the instructions on how to install the project locally.
    ```
 8. Start the Gatsby development server:
 
-   - using ``npm``
-     ```bash
-     npm run develop
-     ```
-   - using ``yarn``
      ```bash
      yarn develop
      ```

@@ -24,7 +24,8 @@ const FilmList: React.FC<filmFilsProps> = ({ filmList, name }) => {
               <Card>
                 <DesktopOutlined size={48} />
                 <Typography.Title level={5}>
-                  {name} Does not appears in our list of film
+                  {name}{" "}
+                  {pageData.assets?.label_does_not_appears_in_out_list_of_film}
                 </Typography.Title>
               </Card>
             ),
